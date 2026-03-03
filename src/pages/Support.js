@@ -4,7 +4,11 @@ function Support() {
       <div className="simple-inner policy">
         <h1>Support</h1>
         <p>If you have questions, you may contact us at:</p>
-        <p>hello@within.app</p>
+        <p>
+          <a href="mailto:within-mindful-app@outlook.com">
+            within-mindful-app@outlook.com
+          </a>
+        </p>
       </div>
     </main>
   );

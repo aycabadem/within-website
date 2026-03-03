@@ -81,7 +81,11 @@ function PrivacyPolicy() {
 
         <h2>8. Contact</h2>
         <p>If you have questions regarding this Privacy Policy, you may contact us at:</p>
-        <p>hello@within.app</p>
+        <p>
+          <a href="mailto:within-mindful-app@outlook.com">
+            within-mindful-app@outlook.com
+          </a>
+        </p>
       </div>
     </main>
   );
